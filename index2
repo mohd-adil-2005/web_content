@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=!, initial-scale=1.0">
+    <title>projecct css </title>
+    <link rel="icon" href="">
+    <link rel="stylesheet" href="css.css">
+  </head>
+  <body>
+    <div class="outer">
+        hi this the para
+    </div>
+  </body>
+  </html>
